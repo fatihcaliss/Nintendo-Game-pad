@@ -1,2 +1,1 @@
-# html-css
-my_workspace
+Simple game console drawing with css codes.
